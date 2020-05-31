@@ -6,4 +6,4 @@ The project is made using python3 and the following libraries were used in the p
 
 OpenCV - For Image Processing
 pandas - For getting the required data
-Bokeh - For plotting Visualizations
+
